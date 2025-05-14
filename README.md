@@ -18,7 +18,7 @@ An interactive particle animation using Particles.js. Developed as a prototype f
 
 ## Demo
 
-//demo
+[Click here to view](https://dog-star-ai.github.io/particles-demo/)
 
 ## How to Run
 
